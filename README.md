@@ -1,1 +1,7 @@
-# myProject8
+# Requirements
+
+---
+
+# Usage
+
+1. Just run the HelloWorld class of the app.
